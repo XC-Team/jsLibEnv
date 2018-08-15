@@ -38,7 +38,7 @@ npm run lint     #eslint检查
 
 ### Todo
 
-- [] 持续集成: Travis CI 
+- [ ] 持续集成: Travis CI 
 
 参考：
 
