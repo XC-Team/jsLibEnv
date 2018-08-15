@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+#API docs
+docs/developer/
+#test coverage
+test/coverage/
+#MAC
+.DS_Store
+*/.DS_Store 
